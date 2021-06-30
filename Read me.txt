@@ -1,2 +1,2 @@
 This is a simple machine learning code to predict people choice of different age and gender.
-python sklearn,matplot,pandas this three package are needed to run the program successfully !
+python sklearn,matplotlib,pandas this three package are needed to run the program successfully !
